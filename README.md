@@ -3,8 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/aslihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aslihan" height="30" width="40" /></a>
-<a href="https://discord.gg/aslihan0260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aslihan0260" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/aslihankaren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="aslihan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
