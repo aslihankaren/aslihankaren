@@ -35,10 +35,15 @@
 </p>
 
 <h3>Data & Analytics Tools:</h3>
+<h3>Data & Analytics Tools:</h3>
 <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2019.svg" alt="Excel" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/SPSS_logo.png" alt="SPSS" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/R_logo.svg" alt="R" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/RStudio_Ball_Logo.png" alt="RStudio" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Jamovi_logo.png" alt="Jamovi" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2019.svg" alt="Excel" width="40" height="40"/>
+  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/IBM_SPSS_Statistics_logo.svg" alt="SPSS" width="40" height="40"/>
+  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/R_logo.svg" alt="R" width="40" height="40"/>
+  
+    <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg" alt="RStudio" width="40" height="40"/>
+  
+    <img src="https://www.jamovi.org/img/logo.png" alt="Jamovi" width="40" height="40"/>
 </p>
