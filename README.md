@@ -1,15 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aslihan Karen</h1>
-<h3 align="center">A passionate full stack Java developer from Germany</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/aslihankaren" target="_blank">🔗 LinkedIn</a> • 
-  <a href="https://medium.com/@aslihanKaren" target="_blank">✍️ Medium</a> •
-  <a href="https://substack.com/@aslihankaren" target="_blank">📰 Substack</a>
-</p>
-
 <h3>Languages and Tools:</h3>
-<p align="left" style="display:flex; flex-wrap:wrap; gap:15px;">
+<div style="display:flex; flex-wrap:nowrap; gap:15px; overflow-x:auto; padding-bottom:5px;">
   <!-- Ana diller -->
   <span style="text-align:center; display:inline-block; width:60px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br>Java
@@ -69,4 +59,4 @@
   <span style="text-align:center; display:inline-block; width:60px; border:1px solid #ccc; border-radius:5px; line-height:40px;">R<br></span>
   <span style="text-align:center; display:inline-block; width:60px; border:1px solid #ccc; border-radius:5px; line-height:40px;">RStudio<br></span>
   <span style="text-align:center; display:inline-block; width:60px; border:1px solid #ccc; border-radius:5px; line-height:40px;">Jamovi<br></span>
-</p>
+</div>
