@@ -36,13 +36,11 @@
 
 <h3>Data & Analytics Tools:</h3>
 <p>
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2019.svg" alt="Excel" width="40" height="40"/>
+
+  **Excel** 📈 |
+  **SPSS** 🧠 | 
+  **R** 📊 | 
+  **RStudio** 💻 | 
+  **Jamovi** 🧪
   
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/IBM_SPSS_Statistics_logo.svg" alt="SPSS" width="40" height="40"/>
-  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/R_logo.svg" alt="R" width="40" height="40"/>
-  
-    <img src="https://raw.githubusercontent.com/RStudio/rstudio-ide-tools/main/logo/rstudio-icon.svg" alt="RStudio" width="40" height="40"/>
-  
-    <img src="https://www.jamovi.org/img/logo.png" alt="Jamovi" width="40" height="40"/>
 </p>
