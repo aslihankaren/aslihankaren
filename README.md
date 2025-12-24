@@ -44,17 +44,11 @@
 
 <h3>Data, GIS & Analytics Tools:</h3>
 <p>
-  <img src="https://img.shields.io/badge/Gephi-555555?style=for-the-badge&logo=gephi&logoColor=white" alt="Gephi" height="30"/>
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS" height="30"/>
-  <img src="https://img.shields.io/badge/ArcGIS-007AC2?style=for-the-badge&logo=arcgis&logoColor=white" alt="ArcGIS" height="30"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS"/>
+  <img src="https://img.shields.io/badge/ArcGIS-007AC2?style=flat-square&logo=arcgis&logoColor=white" alt="ArcGIS"/>
+  <img src="https://img.shields.io/badge/Gephi-555555?style=flat-square&logo=gephi&logoColor=white" alt="Gephi"/>
+  <img src="https://img.shields.io/badge/SPSS-blue?style=flat-square" alt="SPSS"/>
 </p>
-<p>
-  **Excel** 📈 |
-  **SPSS** 🧠 | 
-  **R** 📊 | 
-  **RStudio** 💻 | 
-  **Jamovi** 🧪 |
-  **Gephi** 🕸️ |
-  **QGIS** 🌍 |
-  **ArcGIS** 🗺️
 </p>
