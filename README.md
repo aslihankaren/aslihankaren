@@ -44,14 +44,15 @@
 
 <h3>Data, GIS & Analytics Tools:</h3>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white" alt="R"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qgis/qgis-original.svg" alt="QGIS" width="40" height="40"/>
-  <img src="https://static-00.iconduck.com/assets.00/arcgis-icon-2048x2048-o049o9io.png" alt="ArcGIS" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS"/>
+  <img src="https://img.shields.io/badge/ArcGIS-007AC2?style=flat-square&logo=arcgis&logoColor=white" alt="ArcGIS"/>
+  <img src="https://img.shields.io/badge/Gephi-555555?style=flat-square&logo=gephi&logoColor=white" alt="Gephi"/>
+  <img src="https://img.shields.io/badge/SPSS-blue?style=flat-square" alt="SPSS"/>
   <img src="https://www.jamovi.org/assets/images/jamovi-logo.svg" alt="Jamovi" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/gephi.svg" alt="Gephi" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/spss.png" alt="SPSS" width="40" height="40"/>
+
 </p>
 
 
