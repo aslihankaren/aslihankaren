@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/ArcGIS-007AC2?style=flat-square&logo=arcgis&logoColor=white" alt="ArcGIS"/>
   <img src="https://img.shields.io/badge/Gephi-555555?style=flat-square&logo=gephi&logoColor=white" alt="Gephi"/>
   <img src="https://img.shields.io/badge/SPSS-blue?style=flat-square" alt="SPSS"/>
-  <img src="https://www.jamovi.org/assets/images/jamovi-logo.svg" alt="Jamovi" width="40" height="40"/>
+ <img src="https://img.shields.io/badge/jamovi-3e93cc?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAF7at6KAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA" alt="Jamovi" height="40"/>
 
 </p>
 
