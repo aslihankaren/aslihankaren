@@ -44,9 +44,9 @@
 
 <h3>Data, GIS & Analytics Tools:</h3>
 <p>
-  <img src="https://raw.githubusercontent.com/aslihankaren/aslihankaren/main/logos/gephi.svg" onerror="this.src='https://cdn.worldvectorlogo.com/logos/gephi.svg'" alt="Gephi" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qgis/qgis-original.svg" alt="QGIS" width="40" height="40"/>
-  <img src="https://static-00.iconduck.com/assets.00/arcgis-icon-2048x2048-o049o9io.png" alt="ArcGIS" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Gephi-555555?style=for-the-badge&logo=gephi&logoColor=white" alt="Gephi" height="30"/>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS" height="30"/>
+  <img src="https://img.shields.io/badge/ArcGIS-007AC2?style=for-the-badge&logo=arcgis&logoColor=white" alt="ArcGIS" height="30"/>
 </p>
 <p>
   **Excel** 📈 |
