@@ -46,13 +46,13 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio" width="40" height="40"/>
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qgis/qgis-original.svg" alt="QGIS" width="40" height="40"/>
   <img src="https://static-00.iconduck.com/assets.00/arcgis-icon-2048x2048-o049o9io.png" alt="ArcGIS" width="40" height="40"/>
-  
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
   <img src="https://www.jamovi.org/assets/images/jamovi-logo.svg" alt="Jamovi" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/gephi.svg" alt="Gephi" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/spss.png" alt="SPSS" width="40" height="40"/>
 </p>
+
+
 </p>
